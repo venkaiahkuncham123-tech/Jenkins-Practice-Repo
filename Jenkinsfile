@@ -1,5 +1,5 @@
 pipeline {
-    agent agent
+    agent any
 
     stages {
         stage('Job 1'){
@@ -14,7 +14,7 @@ pipeline {
         }
     }
     post {
-        sucess {
+        success {
             build job: 'Free Style Job'
         }
     }
