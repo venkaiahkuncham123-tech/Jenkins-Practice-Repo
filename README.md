@@ -1,1 +1,1 @@
-# Jenkins-Practice-Repo-Generic-Webhook-trigge
+# Jenkins-Practice-Repo-Generic-Webhook-trigger
